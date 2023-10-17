@@ -13,4 +13,5 @@
 5. Cargar el catálogo desde un archivo CSV.
 
 ## Diagrama UML
+![Diagrama de clases](https://github.com/juampam/library-java/blob/main/img/diagram.jpeg)
 
