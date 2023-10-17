@@ -11,3 +11,6 @@
 4. Guardar el catálogo en un archivo CSV.
 
 5. Cargar el catálogo desde un archivo CSV.
+
+## Diagrama UML
+
